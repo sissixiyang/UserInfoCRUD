@@ -1,0 +1,20 @@
+.searchInput{
+    padding: 5px 10px;
+    width: 100px;
+}
+
+.clearButton{
+    width: 25px;
+    height: 25px;
+    margin-left: -30px;
+    border: none;
+    background: white;
+    outline: none;
+    color: grey;
+}
+.seacrchStyle{
+    position: relative;
+    margin-top: 20px;
+    margin-bottom:20px
+}
+

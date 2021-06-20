@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end
+}
+
+.save-button{
+    margin: 200px;
+}
+
+.form-all{
+    border-bottom:1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.avatarImage {
+    width: 350px;
+    height: 350px;
+}
+.ButtonStyle{
+    position:absolute;
+    top: 20px;
+    /* right: 50px; */
+    left: 1000px;
+}
+.aa{
+    width: 100%;
+}
+
+.form-left{
+    margin-bottom: 20px;
+}
+.left-form{
+    margin-bottom: 20px;
+}
+.form-right{
+    margin-bottom: 20px;
+}
+
+.right-form{
+    margin-bottom: 20px;
+}
+.btnCancel{
+margin-top: 20px;
+}

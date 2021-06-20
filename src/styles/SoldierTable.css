@@ -1,0 +1,38 @@
+.scrollWrapper{
+    width: 100%;
+    height: 350px;
+    overflow: auto;
+}
+.avatar{
+    width:50px;
+    height: 50px;
+}
+
+.tableHeader {
+    width: 100px;
+}
+.tableHeaderPhone{
+    width: 150px;}
+.tableHeaderAvatar{
+    width: 100px;
+}
+.tableHeaderName{
+    width: 100px;
+}
+.tableHeaderDate{
+    width:120px;
+}
+.tableHeaderEmail{
+    width: 150px;
+}
+.tableHeaderAction{
+    width: 100px;
+    text-align: center;
+}
+.MuiPaper-root{
+    text-align: center;}
+
+ .soldierTable{
+ background-color: lightsteelblue;
+    text-align: center;
+}
