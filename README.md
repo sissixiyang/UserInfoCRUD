@@ -1,4 +1,21 @@
-# User's infomation management React APP using redux
+# User's infomation management React APP using Node.js, Express.js, Nosql and Restful api
+• a Single Page Web Applications (SPA) with React Router and responsive web page with HTML5, CSS3, JavaScript
+
+•	Dynamic client-side JavaScript codes to build web forms and simulate process for web application, page navigation, users info searching 
+
+•	Implemented React-Router and JavaScript to enhance user page navigation
+
+• Designed filter feature to sort users by different categories such as name, age, date with MongoDB  
+
+•	Designed and implemented server-side RESTful web services using Node JS and Express.js
+
+•	Utilized MongoDB on cloud server for data storage and conduct CRUD operations in database
+
+•	Designed, developed and optimized data model and data structures depend on the data relationships using Mongoose
+
+
+
+
 
 ## Getting Started with Create React App
 
